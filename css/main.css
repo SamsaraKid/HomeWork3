@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Funko';
+    src: url("../fonts/2022-08_15_Funko.ttf");
+}
+
+.list0{
+    list-style-image: url("../img/arrow.png");
+    margin-bottom: 0px;
+}
+
+.list1{
+    list-style-image: url("../img/free-icon-snowflake-2411812.png");
+}
+
+.list2{
+    list-style-image: url("../img/free-icon-tulip-616435.png");
+}
+
+.list3{
+    list-style-image: url("../img/free-icon-watermelons-4799644.png");
+}
+
+.list4{
+    list-style-image: url("../img/free-icon-maple-leaf-3504580.png");
+}
+
+ul{
+    background-color: lightgray;
+}
+
+div{
+    margin: 30px;
+    padding: 20px 10px;
+    background-color: lightgray;
+    max-width: 300px;
+    font-family: Funko;
+}
+
+h1{
+    margin: 0px;
+}
